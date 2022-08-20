@@ -1,0 +1,16 @@
+{
+	"name": "landing",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"homepage": "https://Yurii-Khrobak.github.io/build-sale-site/",
+	"scripts": {
+		"deploy": "gh-pages -d src"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"gh-pages": "^4.0.0"
+	}
+}
